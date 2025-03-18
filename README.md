@@ -1,3 +1,5 @@
+Install Prisma VS Code extension for syntax highlighting and formatting in schema file.
+
 Create migration SQL without applying it:
 
 ```
