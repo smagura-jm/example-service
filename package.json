@@ -1,0 +1,9 @@
+{
+  "name": "example-service",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
